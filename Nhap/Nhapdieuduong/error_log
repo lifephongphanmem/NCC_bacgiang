@@ -1,0 +1,722 @@
+[26-Feb-2019 14:56:52 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[26-Feb-2019 14:56:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[26-Feb-2019 14:56:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[26-Feb-2019 14:56:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[26-Feb-2019 14:57:05 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[26-Feb-2019 14:57:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[26-Feb-2019 14:57:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[26-Feb-2019 14:57:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[19-Mar-2019 15:56:42 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[19-Mar-2019 15:56:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[19-Mar-2019 15:56:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[19-Mar-2019 15:56:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[19-Mar-2019 15:57:24 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[19-Mar-2019 15:57:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[19-Mar-2019 15:57:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[19-Mar-2019 15:57:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[19-Mar-2019 15:57:41 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[19-Mar-2019 15:57:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[19-Mar-2019 15:57:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[19-Mar-2019 15:57:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[19-Mar-2019 16:00:16 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[19-Mar-2019 16:00:16 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[19-Mar-2019 16:00:16 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[19-Mar-2019 16:00:16 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[05-Apr-2019 09:04:23 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[05-Apr-2019 09:04:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[05-Apr-2019 09:04:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[05-Apr-2019 09:04:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[16-Apr-2019 14:15:01 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[16-Apr-2019 14:15:01 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[16-Apr-2019 14:15:01 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[16-Apr-2019 14:15:01 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[16-Apr-2019 14:15:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[19-Apr-2019 13:37:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[19-Apr-2019 13:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[26-Apr-2019 08:58:18 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[26-Apr-2019 08:58:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[26-Apr-2019 08:58:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[26-Apr-2019 08:58:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[06-May-2019 14:23:50 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2019 14:23:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2019 14:23:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2019 14:23:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[06-May-2019 16:35:52 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:35:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:35:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:35:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-May-2019 16:35:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[06-May-2019 16:36:18 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:36:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:36:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:36:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-May-2019 16:36:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[06-May-2019 16:36:33 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:36:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:36:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:36:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-May-2019 16:37:32 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2019 16:37:32 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2019 16:37:32 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2019 16:37:32 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[06-May-2019 16:39:30 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2019 16:39:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2019 16:39:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2019 16:39:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[06-May-2019 16:45:54 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-May-2019 16:45:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[06-May-2019 16:46:00 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:46:00 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:46:00 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-May-2019 16:46:00 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[07-May-2019 14:05:08 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:05:08 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:05:08 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:05:08 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[07-May-2019 14:06:18 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:06:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[07-May-2019 14:07:40 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:07:40 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:07:40 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:07:40 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[07-May-2019 14:07:44 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:07:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:07:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:07:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[07-May-2019 14:08:05 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:08:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:08:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:08:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[07-May-2019 14:08:51 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:08:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:08:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[07-May-2019 14:08:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[08-May-2019 09:16:52 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 09:16:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 09:16:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 09:16:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[08-May-2019 09:17:42 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 09:17:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 09:17:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 09:17:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[08-May-2019 09:30:23 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 09:30:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 09:30:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 09:30:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[08-May-2019 10:34:52 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 10:34:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 10:34:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 10:34:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[08-May-2019 10:41:11 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 10:41:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 10:41:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[08-May-2019 10:41:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[08-May-2019 18:21:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 629
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 642
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 698
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 705
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 712
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 719
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 726
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 733
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 745
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 760
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 776
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 788
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduongtra.php on line 311
+[08-May-2019 18:21:03 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduongtra.php on line 311
+[09-May-2019 14:20:47 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[09-May-2019 14:20:47 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[09-May-2019 14:20:47 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[09-May-2019 14:20:47 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[16-May-2019 10:15:42 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[16-May-2019 10:15:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[16-May-2019 10:15:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[16-May-2019 10:15:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[29-May-2019 14:29:27 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:29:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:29:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:29:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[29-May-2019 14:29:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[29-May-2019 14:29:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:29:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:29:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:29:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[29-May-2019 14:29:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[29-May-2019 14:29:42 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:29:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:29:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:29:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[29-May-2019 14:30:00 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:30:00 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:30:00 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:30:00 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[29-May-2019 14:30:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[29-May-2019 14:30:14 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:30:14 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:30:14 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:30:14 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[29-May-2019 14:30:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[29-May-2019 14:30:23 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:30:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:30:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[29-May-2019 14:30:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[29-May-2019 14:30:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyentra.php on line 382
+[10-Jun-2019 09:25:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[10-Jun-2019 09:25:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[10-Jun-2019 09:25:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[10-Jun-2019 09:25:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[10-Jun-2019 09:25:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[10-Jun-2019 09:25:44 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[10-Jun-2019 09:25:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[10-Jun-2019 09:25:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[10-Jun-2019 09:25:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[10-Jun-2019 09:25:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyentra.php on line 382
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[14-Jun-2019 10:30:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[14-Jun-2019 10:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 629
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 642
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 698
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 705
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 712
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 719
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 726
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 733
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 745
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 760
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 776
+[14-Jun-2019 11:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 788
+[18-Jun-2019 14:04:24 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[18-Jun-2019 14:04:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[18-Jun-2019 14:04:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[18-Jun-2019 14:04:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[18-Jun-2019 14:07:13 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[18-Jun-2019 14:07:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[18-Jun-2019 14:07:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[18-Jun-2019 14:07:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[18-Jun-2019 14:07:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[24-Jun-2019 14:25:06 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[24-Jun-2019 14:25:06 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[24-Jun-2019 14:25:06 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[24-Jun-2019 14:25:06 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[24-Jun-2019 14:25:15 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[24-Jun-2019 14:25:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[24-Jun-2019 14:25:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[24-Jun-2019 14:25:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[24-Jun-2019 14:25:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[12-Jul-2019 16:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[12-Jul-2019 16:17:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[17-Jul-2019 14:16:43 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[17-Jul-2019 14:16:43 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[17-Jul-2019 14:16:43 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[17-Jul-2019 14:16:43 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[04-Oct-2019 07:42:27 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:42:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:42:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:42:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[04-Oct-2019 07:42:42 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:42:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:42:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:42:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[04-Oct-2019 07:43:20 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:43:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:43:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:43:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[04-Oct-2019 07:43:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:43:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:43:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:43:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[04-Oct-2019 07:43:33 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:43:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:43:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[04-Oct-2019 07:43:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[22-Oct-2019 08:58:15 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[22-Oct-2019 08:58:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[22-Oct-2019 08:58:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[22-Oct-2019 08:58:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[22-Oct-2019 08:58:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[22-Oct-2019 08:58:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[22-Oct-2019 08:58:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[22-Oct-2019 08:58:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[22-Oct-2019 14:27:54 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[22-Oct-2019 14:27:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[22-Oct-2019 14:27:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[22-Oct-2019 14:27:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[22-Oct-2019 14:27:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 629
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 642
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 698
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 705
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 712
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 719
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 726
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 733
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 745
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 760
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 776
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 788
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 346
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 382
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 508
+[28-Nov-2019 09:50:29 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 604
+[17-Dec-2019 08:50:15 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[17-Dec-2019 08:50:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[17-Dec-2019 08:50:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[17-Dec-2019 08:50:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[17-Dec-2019 08:50:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[17-Dec-2019 08:50:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[17-Dec-2019 08:50:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[17-Dec-2019 08:50:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[17-Dec-2019 08:50:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[17-Dec-2019 08:50:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[05-Feb-2020 10:49:25 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[05-Feb-2020 10:49:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[05-Feb-2020 10:49:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[05-Feb-2020 10:49:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[05-Feb-2020 10:49:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[05-Feb-2020 10:49:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[05-Feb-2020 10:49:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[05-Feb-2020 10:49:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[05-Feb-2020 10:49:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[13-Feb-2020 10:19:33 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:19:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:19:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:19:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[13-Feb-2020 10:19:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[13-Feb-2020 10:19:51 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:19:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:19:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:19:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[13-Feb-2020 10:20:12 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:20:12 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:20:12 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:20:12 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[13-Feb-2020 10:20:20 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:20:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:20:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:20:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[13-Feb-2020 10:20:21 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:20:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:20:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[13-Feb-2020 10:20:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[13-Feb-2020 10:20:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[06-Mar-2020 08:51:07 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 08:51:07 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 08:51:07 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 08:51:07 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 08:51:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[06-Mar-2020 09:03:15 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:03:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:03:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:03:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:04:13 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:04:21 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:04:28 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:04:58 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:04:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:05:09 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:09 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:09 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:09 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:05:15 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:05:20 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:05:30 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:05:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:20:26 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:20:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:20:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:20:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:20:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[06-Mar-2020 09:20:55 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:20:55 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:20:55 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:20:55 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:21:11 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:21:21 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:21:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:21:51 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:21:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:22:10 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:22:10 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:22:10 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:22:10 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:22:26 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:22:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:22:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:22:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:23:06 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:23:11 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:23:23 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:23:42 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:23:54 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:23:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:24:05 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:24:13 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:24:22 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:22 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:22 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:22 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:24:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:24:41 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:41 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:24:51 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:24:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:31:23 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:31:25 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:31:36 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:36 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:36 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:36 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:31:50 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:31:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:32:04 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:04 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:04 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:04 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:32:16 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:16 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:16 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:16 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:32:21 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:32:33 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:32:40 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:40 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:40 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:40 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 09:32:50 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[06-Mar-2020 09:32:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 629
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 642
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 698
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 705
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 712
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 719
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 726
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 733
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 745
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 760
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 776
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 788
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 346
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 382
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 508
+[06-Mar-2020 14:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 604
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[06-May-2020 09:54:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[06-May-2020 14:41:12 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2020 14:41:12 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2020 14:41:12 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 173
+[06-May-2020 14:41:12 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 174
+[28-May-2020 08:50:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[28-May-2020 08:50:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[28-May-2020 08:50:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[28-May-2020 08:50:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[28-May-2020 08:50:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[28-May-2020 08:50:35 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[28-May-2020 08:50:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[28-May-2020 08:50:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[28-May-2020 08:50:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[28-May-2020 08:50:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[28-May-2020 08:50:53 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[28-May-2020 08:50:53 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[28-May-2020 08:50:53 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 186
+[28-May-2020 08:50:53 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 187
+[28-May-2020 08:50:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[26-Jun-2020 07:57:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[26-Jun-2020 07:57:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[16-Jul-2020 07:20:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[08-Oct-2020 10:46:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[07-May-2021 16:49:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[17-May-2021 15:08:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[17-May-2021 15:27:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[17-May-2021 15:46:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[17-May-2021 15:46:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[17-May-2021 16:20:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[17-May-2021 16:20:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[17-May-2021 16:21:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[17-May-2021 16:21:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[26-May-2021 15:20:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[26-May-2021 15:20:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[26-May-2021 15:24:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[26-May-2021 15:24:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[26-May-2021 15:26:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[08-Jul-2021 10:52:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[08-Jul-2021 10:52:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275
+[10-Jul-2021 10:02:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[10-Jul-2021 15:56:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyen.php on line 383
+[12-Sep-2021 11:42:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: dieukien in /home/nhngubq7/public_html/bacgiang/Nhap/Nhapdieuduong/dkdieuduonghuyenchitra.php on line 275

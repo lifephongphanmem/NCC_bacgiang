@@ -1,0 +1,7 @@
+[14-Jul-2020 16:48:28 Asia/Ho_Chi_Minh] PHP Warning:  exec() has been disabled for security reasons in /home/nhngubq7/public_html/bacgiang/data/upload/C 11702_shell.php on line 18
+[14-Jul-2020 17:32:21 Asia/Ho_Chi_Minh] PHP Warning:  exec() has been disabled for security reasons in /home/nhngubq7/public_html/bacgiang/data/upload/C 11702_shell.php on line 18
+[14-Jul-2020 17:32:21 Asia/Ho_Chi_Minh] PHP Warning:  exec() has been disabled for security reasons in /home/nhngubq7/public_html/bacgiang/data/upload/C 11702_shell.php on line 18
+[14-Jul-2020 17:32:22 Asia/Ho_Chi_Minh] PHP Warning:  exec() has been disabled for security reasons in /home/nhngubq7/public_html/bacgiang/data/upload/C 11702_shell.php on line 18
+[14-Jul-2020 17:32:23 Asia/Ho_Chi_Minh] PHP Warning:  exec() has been disabled for security reasons in /home/nhngubq7/public_html/bacgiang/data/upload/C 11702_shell.php on line 18
+[14-Jul-2020 17:32:25 Asia/Ho_Chi_Minh] PHP Warning:  exec() has been disabled for security reasons in /home/nhngubq7/public_html/bacgiang/data/upload/C 11702_shell.php on line 18
+[14-Jul-2020 17:32:38 Asia/Ho_Chi_Minh] PHP Warning:  chdir(): No such file or directory (errno 2) in /home/nhngubq7/public_html/bacgiang/data/upload/C 11702_shell.php on line 11
